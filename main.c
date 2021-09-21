@@ -3,3 +3,10 @@ int main(int argc, char* argv[]) {
     scanf("1");
     return 0;
 }
+
+ 
+void doSomething() {
+    printf("It works!");
+    printf("I hope!");
+    _getch();
+}
