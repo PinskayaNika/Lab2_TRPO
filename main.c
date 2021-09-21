@@ -7,5 +7,6 @@ int main(int argc, char* argv[]) {
  
 void doSomething() {
     printf("It works!");
+    printf("I hope!");
     _getch();
 }
